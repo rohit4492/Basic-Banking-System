@@ -5,23 +5,23 @@ export default class UserList extends Component {
                 super(props);
                 this.state = {
                         users:[{
-                                name:'Rohit'
+                                name:'Bhargav'
                         },{
-                                name:'Pranith'
+                                name:'Argul'
                         },{
-                                name:'Sanjana'
-                        },{
-                                name:'Mourya'
-                        },{
-                                name:'Avinash'
-                        },{
-                                name:'Abhi'
+                                name:'Janya'
                         },{
                                 name:'Bhargav'
                         },{
-                                name:'Divya'
+                                name:'Argul'
                         },{
-                                name:'Samantha'
+                                name:'Janya'
+                        },{
+                                name:'Bhargav'
+                        },{
+                                name:'Argul'
+                        },{
+                                name:'Janya'
                         }]
                 }
         }
